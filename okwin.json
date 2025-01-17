@@ -10,5 +10,6 @@
   "deposit_url": "https://www.okwin.fan/#/wallet/recharge",
   "login_url": "https://www.okwin.fan/#/login",
   "register_url": "https://www.okwin.fan/#/register?invitationCode=282452739393",
-  "telegram_url": "https://t.me/vishuskills"
+  "telegram_url": "https://t.me/vishuskills",
+  "home_url": "https://www.okwin.fan/#/"
 }
