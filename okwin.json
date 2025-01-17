@@ -2,7 +2,10 @@
   "matching_urls": [
     "https://www.okwin.fan/#/wallet",
     "https://www.okwin.fan/#/wallet/recharge",
-    "https://www.okwin.fan/#/home/AllLotteryGames/WinGo?id=1"
+    "https://www.okwin.fan/#/home/AllLotteryGames/WinGo?id=1",
+    "https://okwingame.com/#/home/AllLotteryGames/5D?id=3",
+    "https://okwingame.com/#/home/AllLotteryGames/5D?id=2",
+    "https://okwingame.com/#/home/AllLotteryGames/WinTrx?id=4"
   ],
   "deposit_url": "https://www.okwin.fan/#/wallet/recharge",
   "login_url": "https://www.okwin.fan/#/login",
