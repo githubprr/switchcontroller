@@ -1,0 +1,15 @@
+{
+  "matching_urls": [
+    "https://diuwinapp.club/#/wallet",
+    "https://diuwinapp.club/#/wallet/recharge",
+    "https://diuwinapp.club/#/home/AllLotteryGames/WinGo?id=1",
+    "https://diuwinapp.club/#/home/AllLotteryGames/5D?id=3",
+    "https://diuwinapp.club/#/home/AllLotteryGames/5D?id=2",
+    "https://diuwinapp.club/#/home/AllLotteryGames/WinTrx?id=4"
+  ],
+  "deposit_url": "https://diuwinapp.club/#/wallet/recharge",
+  "login_url": "https://diuwinapp.club/#/login",
+  "register_url": "https://diuwinapp.club/#/register?invitationCode=42677100202",
+  "telegram_url": "https://t.me/vishuskills",
+  "home_url": "https://diuwinapp.club/#/"
+}
