@@ -3,34 +3,34 @@
     {
       "name": "Game 1",
       "matching_urls": [
-    "https://www.55slots.in/#/wallet",
-    "https://www.55slots.in/#/wallet/recharge",
-    "https://www.55slots.in/#/home/AllLotteryGames/WinGo?id=1",
-    "https://www.55slots.in/#/home/AllLotteryGames/5D?id=3",
-    "https://www.55slots.in/#/home/AllLotteryGames/5D?id=2",
-    "https://www.55slots.in/#/home/AllLotteryGames/WinTrx?id=4"
-  ],
-  "deposit_url": "https://www.55slots.in/#/wallet/recharge",
-  "login_url": "https://www.55slots.in/#/login",
-  "register_url": "https://www.55slots.in/#/register?invitationCode=135684201974",
-  "telegram_url": "https://t.me/vishuskills",
-  "home_url": "https://www.55slots.in/#/"
+        "https://www.55slots.in/#/wallet",
+        "https://www.55slots.in/#/wallet/recharge",
+        "https://www.55slots.in/#/home/AllLotteryGames/WinGo?id=1",
+        "https://www.55slots.in/#/home/AllLotteryGames/5D?id=3",
+        "https://www.55slots.in/#/home/AllLotteryGames/5D?id=2",
+        "https://www.55slots.in/#/home/AllLotteryGames/WinTrx?id=4"
+      ],
+      "deposit_url": "https://www.55slots.in/#/wallet/recharge",
+      "login_url": "https://www.55slots.in/#/login",
+      "register_url": "https://www.55slots.in/#/register?invitationCode=135684201974",
+      "telegram_url": "https://t.me/vishuskills",
+      "home_url": "https://www.55slots.in/#/"
     },
     {
       "name": "Game 2",
       "matching_urls": [
-    "https://www.55slots.in/#/wallet",
-    "https://www.55slots.in/#/wallet/recharge",
-    "https://www.55slots.in/#/home/AllLotteryGames/WinGo?id=1",
-    "https://www.55slots.in/#/home/AllLotteryGames/5D?id=3",
-    "https://www.55slots.in/#/home/AllLotteryGames/5D?id=2",
-    "https://www.55slots.in/#/home/AllLotteryGames/WinTrx?id=4"
-  ],
-  "deposit_url": "https://www.55slots.in/#/wallet/recharge",
-  "login_url": "https://www.55slots.in/#/login",
-  "register_url": "https://www.55slots.in/#/register?invitationCode=135684201974",
-  "telegram_url": "https://t.me/vishuskills",
-  "home_url": "https://www.55slots.in/#/"
+        "https://www.55slots.in/#/wallet",
+        "https://www.55slots.in/#/wallet/recharge",
+        "https://www.55slots.in/#/home/AllLotteryGames/WinGo?id=1",
+        "https://www.55slots.in/#/home/AllLotteryGames/5D?id=3",
+        "https://www.55slots.in/#/home/AllLotteryGames/5D?id=2",
+        "https://www.55slots.in/#/home/AllLotteryGames/WinTrx?id=4"
+      ],
+      "deposit_url": "https://www.55slots.in/#/wallet/recharge",
+      "login_url": "https://www.55slots.in/#/login",
+      "register_url": "https://www.55slots.in/#/register?invitationCode=135684201974",
+      "telegram_url": "https://t.me/vishuskills",
+      "home_url": "https://www.55slots.in/#/"
     }
   ]
 }
