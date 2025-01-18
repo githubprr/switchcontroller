@@ -1,24 +1,28 @@
 {
   "games": [
     {
-      "name": "91Club Hack",
-      "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
-      "registrationLink": "https://example.com/register/91club"
+      "name": "Game 1",
+      "matching_urls": [
+        "https://www.game1.com/wallet",
+        "https://www.game1.com/recharge"
+      ],
+      "deposit_url": "https://www.game1.com/wallet/recharge",
+      "login_url": "https://www.game1.com/login",
+      "register_url": "https://www.game1.com/register",
+      "telegram_url": "https://t.me/game1",
+      "home_url": "https://www.game1.com"
     },
     {
-      "name": "55Club Hack",
-      "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
-      "registrationLink": "https://example.com/register/55club"
-    },
-    {
-      "name": "In999 Hack",
-      "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
-      "registrationLink": "https://example.com/register/in999"
-    },
-    {
-      "name": "Okwin Hack",
-      "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
-      "registrationLink": "https://example.com/register/okwin"
+      "name": "Game 2",
+      "matching_urls": [
+        "https://www.game2.com/wallet",
+        "https://www.game2.com/recharge"
+      ],
+      "deposit_url": "https://www.game2.com/wallet/recharge",
+      "login_url": "https://www.game2.com/login",
+      "register_url": "https://www.game2.com/register",
+      "telegram_url": "https://t.me/game2",
+      "home_url": "https://www.game2.com"
     }
   ]
 }
