@@ -15,7 +15,7 @@
     "registration_link": "https://www.bing009.com/#/register?invitationCode=416623809168",
     "login_url": "https://www.bing009.com/#/login",
     "matching_urls": [
-      "https://www.bing009.com/#/user",
+      "https://www.bing009.com/#/",
       "https://www.bing009.com/#/profile"
     ]
   },
