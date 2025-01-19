@@ -2,31 +2,37 @@
   {
     "name": "Sikkim Hack",
     "icon": "https://raw.githubusercontent.com/githubprr/all/main/sikkim.png",
-    "registration_link": "http://www.sikkim9.com/#/register?invitationCode=73728400111"
+    "registration_link": "http://www.sikkim9.com/#/register?invitationCode=73728400111",
+    "login_url": "http://www.sikkim9.com/#/login"
   },
   {
     "name": "Goa Hack",
     "icon": "https://raw.githubusercontent.com/githubprr/all/main/goa.png",
-    "registration_link": "https://www.bing009.com/#/register?invitationCode=416623809168"
+    "registration_link": "https://www.bing009.com/#/register?invitationCode=416623809168",
+    "login_url": "https://www.bing009.com/#/login"
   },
   {
     "name": "Diuwin Hack",
     "icon": "https://raw.githubusercontent.com/githubprr/all/main/diuwin.png",
-    "registration_link": "https://diuwinapp.pro/#/register?invitationCode=42677100202"
+    "registration_link": "https://diuwinapp.pro/#/register?invitationCode=42677100202",
+    "login_url": "https://diuwinapp.pro/#/login"
   },
   {
     "name": "Okwin Hack",
     "icon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
-    "registration_link": "https://www.okowin.com/#/register?invitationCode=282452739393"
+    "registration_link": "https://www.okowin.com/#/register?invitationCode=282452739393",
+    "login_url": "https://www.okowin.com/#/login"
   },
   {
     "name": "Daman Hack",
     "icon": "https://raw.githubusercontent.com/githubprr/all/main/daman.png",
-    "registration_link": "https://damangames.bet/#/register?invitationCode=7247711618071"
+    "registration_link": "https://damangames.bet/#/register?invitationCode=7247711618071",
+    "login_url": "https://damangames.bet/#/login"
   },
   {
     "name": "55Club Hack",
     "icon": "https://raw.githubusercontent.com/githubprr/all/main/club55.png",
-    "registration_link": "https://www.55slots.in/#/register?invitationCode=135684201974"
+    "registration_link": "https://www.55slots.in/#/register?invitationCode=135684201974",
+    "login_url": "https://www.55slots.in/#/login"
   }
 ]
