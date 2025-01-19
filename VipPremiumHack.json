@@ -4,6 +4,7 @@
     "icon": "https://raw.githubusercontent.com/githubprr/all/main/sikkim.png",
     "registration_link": "http://www.sikkim9.com/#/register?invitationCode=73728400111",
     "login_url": "http://www.sikkim9.com/#/login",
+    "deposit_url": "http://www.sikkim9.com/#/wallet/deposit",
     "matching_urls": [
       "http://www.sikkim9.com/#/dashboard",
       "http://www.sikkim9.com/#/home"
@@ -14,6 +15,7 @@
     "icon": "https://raw.githubusercontent.com/githubprr/all/main/goa.png",
     "registration_link": "https://www.bing009.com/#/register?invitationCode=416623809168",
     "login_url": "https://www.bing009.com/#/login",
+    "deposit_url": "https://www.bing009.com/#/wallet/deposit",
     "matching_urls": [
       "https://www.bing009.com/#/",
       "https://www.bing009.com/#/profile"
@@ -24,6 +26,7 @@
     "icon": "https://raw.githubusercontent.com/githubprr/all/main/diuwin.png",
     "registration_link": "https://diuwinapp.pro/#/register?invitationCode=42677100202",
     "login_url": "https://diuwinapp.pro/#/login",
+    "deposit_url": "https://diuwinapp.pro/#/wallet/deposit",
     "matching_urls": [
       "https://diuwinapp.pro/#/home",
       "https://diuwinapp.pro/#/overview"
@@ -34,6 +37,7 @@
     "icon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
     "registration_link": "https://www.okowin.com/#/register?invitationCode=282452739393",
     "login_url": "https://www.okowin.com/#/login",
+    "deposit_url": "https://www.okowin.com/#/wallet/deposit",
     "matching_urls": [
       "https://www.okowin.com/#/profile",
       "https://www.okowin.com/#/account"
@@ -44,6 +48,7 @@
     "icon": "https://raw.githubusercontent.com/githubprr/all/main/daman.png",
     "registration_link": "https://damangames.bet/#/register?invitationCode=7247711618071",
     "login_url": "https://damangames.bet/#/login",
+    "deposit_url": "https://damangames.bet/#/wallet/deposit",
     "matching_urls": [
       "https://damangames.bet/#/overview",
       "https://damangames.bet/#/dashboard"
@@ -54,6 +59,7 @@
     "icon": "https://raw.githubusercontent.com/githubprr/all/main/club55.png",
     "registration_link": "https://www.55slots.in/#/register?invitationCode=135684201974",
     "login_url": "https://www.55slots.in/#/login",
+    "deposit_url": "https://www.55slots.in/#/wallet/deposit",
     "matching_urls": [
       "https://www.55slots.in/#/dashboard",
       "https://www.55slots.in/#/wallet"
