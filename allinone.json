@@ -1,28 +1,41 @@
-[
-  {
-    "game_name": "Game 1",
-    "button_color": "#FF5733",
-    "matching_urls": [
-      "https://example.com/game1/match1",
-      "https://example.com/game1/match2"
-    ],
-    "deposit_url": "https://example.com/game1/deposit",
-    "login_url": "https://example.com/game1/login",
-    "register_url": "https://example.com/game1/register",
-    "telegram_url": "https://t.me/game1",
-    "home_url": "https://example.com/game1"
-  },
-  {
-    "game_name": "Game 2",
-    "button_color": "#33FF57",
-    "matching_urls": [
-      "https://example.com/game2/match1",
-      "https://example.com/game2/match2"
-    ],
-    "deposit_url": "https://example.com/game2/deposit",
-    "login_url": "https://example.com/game2/login",
-    "register_url": "https://example.com/game2/register",
-    "telegram_url": "https://t.me/game2",
-    "home_url": "https://example.com/game2"
-  }
-]
+
+{
+  "games": [
+    {
+      "game_name": "WinGo",
+      "button_color": "#FF5733",
+      "matching_urls": [
+        "https://www.55slots.in/#/home/AllLotteryGames/WinGo?id=1"
+      ],
+      "deposit_url": "https://www.55slots.in/#/wallet/recharge",
+      "login_url": "https://www.55slots.in/#/login",
+      "register_url": "https://www.55slots.in/#/register?invitationCode=135684201974",
+      "telegram_url": "https://t.me/vishuskills",
+      "home_url": "https://www.55slots.in/#/"
+    },
+    {
+      "game_name": "5D Game 1",
+      "button_color": "#33FF57",
+      "matching_urls": [
+        "https://www.55slots.in/#/home/AllLotteryGames/5D?id=3"
+      ],
+      "deposit_url": "https://www.55slots.in/#/wallet/recharge",
+      "login_url": "https://www.55slots.in/#/login",
+      "register_url": "https://www.55slots.in/#/register?invitationCode=135684201975",
+      "telegram_url": "https://t.me/vishuskills",
+      "home_url": "https://www.55slots.in/#/"
+    },
+    {
+      "game_name": "5D Game 2",
+      "button_color": "#3357FF",
+      "matching_urls": [
+        "https://www.55slots.in/#/home/AllLotteryGames/5D?id=2"
+      ],
+      "deposit_url": "https://www.55slots.in/#/wallet/recharge",
+      "login_url": "https://www.55slots.in/#/login",
+      "register_url": "https://www.55slots.in/#/register?invitationCode=135684201976",
+      "telegram_url": "https://t.me/vishuskills",
+      "home_url": "https://www.55slots.in/#/"
+    }
+  ]
+}
