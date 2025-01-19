@@ -6,8 +6,12 @@
     "login_url": "http://www.sikkim9.com/#/login",
     "deposit_url": "http://www.sikkim9.com/#/wallet/deposit",
     "matching_urls": [
-      "http://www.sikkim9.com/#/dashboard",
-      "http://www.sikkim9.com/#/home"
+      "https://sikkim9.com/#/wallet",
+      "https://sikkim9.com/#/wallet/recharge",
+      "https://sikkim9.com/#/home/AllLotteryGames/WinGo?id=1",
+      "https://sikkim9.com/#/home/AllLotteryGames/5D?id=3",
+      "https://sikkim9.com/#/home/AllLotteryGames/5D?id=2",
+      "https://sikkim9.com/#/home/AllLotteryGames/WinTrx?id=4"
     ],
     "telegram_link": "https://t.me/sikkim_game_channel",
     "home_url": "http://www.sikkim9.com/#/home"
@@ -19,8 +23,12 @@
     "login_url": "https://www.bing009.com/#/login",
     "deposit_url": "https://www.bing009.com/#/wallet/deposit",
     "matching_urls": [
-      "https://www.bing009.com/#/",
-      "https://www.bing009.com/#/profile"
+      "https://bing009.com/#/wallet",
+      "https://bing009.com/#/wallet/recharge",
+      "https://bing009.com/#/home/AllLotteryGames/WinGo?id=1",
+      "https://bing009.com/#/home/AllLotteryGames/5D?id=3",
+      "https://bing009.com/#/home/AllLotteryGames/5D?id=2",
+      "https://bing009.com/#/home/AllLotteryGames/WinTrx?id=4"
     ],
     "telegram_link": "https://t.me/goa_game_channel",
     "home_url": "https://www.bing009.com/#/"
@@ -32,11 +40,15 @@
     "login_url": "https://diuwinapp.pro/#/login",
     "deposit_url": "https://diuwinapp.pro/#/wallet/deposit",
     "matching_urls": [
-      "https://diuwinapp.pro/#/home",
-      "https://diuwinapp.pro/#/overview"
+      "https://diuwinapp.pro/#/wallet",
+      "https://diuwinapp.pro/#/wallet/recharge",
+      "https://diuwinapp.pro/#/home/AllLotteryGames/WinGo?id=1",
+      "https://diuwinapp.pro/#/home/AllLotteryGames/5D?id=3",
+      "https://diuwinapp.pro/#/home/AllLotteryGames/5D?id=2",
+      "https://diuwinapp.pro/#/home/AllLotteryGames/WinTrx?id=4"
     ],
     "telegram_link": "https://t.me/diuwin_game_channel",
-    "home_url": "https://diuwinapp.pro/#/home"
+    "home_url": "https://diuwinapp.pro/#/"
   },
   {
     "name": "Okwin Hack",
@@ -45,8 +57,12 @@
     "login_url": "https://www.okowin.com/#/login",
     "deposit_url": "https://www.okowin.com/#/wallet/deposit",
     "matching_urls": [
-      "https://www.okowin.com/#/profile",
-      "https://www.okowin.com/#/account"
+      "https://sikkim9.com/#/wallet",
+      "https://sikkim9.com/#/wallet/recharge",
+      "https://sikkim9.com/#/home/AllLotteryGames/WinGo?id=1",
+      "https://sikkim9.com/#/home/AllLotteryGames/5D?id=3",
+      "https://sikkim9.com/#/home/AllLotteryGames/5D?id=2",
+      "https://sikkim9.com/#/home/AllLotteryGames/WinTrx?id=4"
     ],
     "telegram_link": "https://t.me/okwin_game_channel",
     "home_url": "https://www.okowin.com/#/"
@@ -58,11 +74,15 @@
     "login_url": "https://damangames.bet/#/login",
     "deposit_url": "https://damangames.bet/#/wallet/deposit",
     "matching_urls": [
-      "https://damangames.bet/#/overview",
-      "https://damangames.bet/#/dashboard"
+      "https://sikkim9.com/#/wallet",
+      "https://sikkim9.com/#/wallet/recharge",
+      "https://sikkim9.com/#/home/AllLotteryGames/WinGo?id=1",
+      "https://sikkim9.com/#/home/AllLotteryGames/5D?id=3",
+      "https://sikkim9.com/#/home/AllLotteryGames/5D?id=2",
+      "https://sikkim9.com/#/home/AllLotteryGames/WinTrx?id=4"
     ],
     "telegram_link": "https://t.me/daman_game_channel",
-    "home_url": "https://damangames.bet/#/overview"
+    "home_url": "https://damangames.bet/#/"
   },
   {
     "name": "55Club Hack",
@@ -71,10 +91,14 @@
     "login_url": "https://www.55slots.in/#/login",
     "deposit_url": "https://www.55slots.in/#/wallet/deposit",
     "matching_urls": [
-      "https://www.55slots.in/#/dashboard",
-      "https://www.55slots.in/#/wallet"
+      "https://sikkim9.com/#/wallet",
+      "https://sikkim9.com/#/wallet/recharge",
+      "https://sikkim9.com/#/home/AllLotteryGames/WinGo?id=1",
+      "https://sikkim9.com/#/home/AllLotteryGames/5D?id=3",
+      "https://sikkim9.com/#/home/AllLotteryGames/5D?id=2",
+      "https://sikkim9.com/#/home/AllLotteryGames/WinTrx?id=4"
     ],
     "telegram_link": "https://t.me/club55_game_channel",
-    "home_url": "https://www.55slots.in/#/dashboard"
+    "home_url": "https://www.55slots.in/#/"
   }
 ]
