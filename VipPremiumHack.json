@@ -8,7 +8,9 @@
     "matching_urls": [
       "http://www.sikkim9.com/#/dashboard",
       "http://www.sikkim9.com/#/home"
-    ]
+    ],
+    "telegram_link": "https://t.me/sikkim_game_channel",
+    "home_url": "http://www.sikkim9.com/#/home"
   },
   {
     "name": "Goa Hack",
@@ -19,7 +21,9 @@
     "matching_urls": [
       "https://www.bing009.com/#/",
       "https://www.bing009.com/#/profile"
-    ]
+    ],
+    "telegram_link": "https://t.me/goa_game_channel",
+    "home_url": "https://www.bing009.com/#/"
   },
   {
     "name": "Diuwin Hack",
@@ -30,7 +34,9 @@
     "matching_urls": [
       "https://diuwinapp.pro/#/home",
       "https://diuwinapp.pro/#/overview"
-    ]
+    ],
+    "telegram_link": "https://t.me/diuwin_game_channel",
+    "home_url": "https://diuwinapp.pro/#/home"
   },
   {
     "name": "Okwin Hack",
@@ -41,7 +47,9 @@
     "matching_urls": [
       "https://www.okowin.com/#/profile",
       "https://www.okowin.com/#/account"
-    ]
+    ],
+    "telegram_link": "https://t.me/okwin_game_channel",
+    "home_url": "https://www.okowin.com/#/"
   },
   {
     "name": "Daman Hack",
@@ -52,7 +60,9 @@
     "matching_urls": [
       "https://damangames.bet/#/overview",
       "https://damangames.bet/#/dashboard"
-    ]
+    ],
+    "telegram_link": "https://t.me/daman_game_channel",
+    "home_url": "https://damangames.bet/#/overview"
   },
   {
     "name": "55Club Hack",
@@ -63,6 +73,8 @@
     "matching_urls": [
       "https://www.55slots.in/#/dashboard",
       "https://www.55slots.in/#/wallet"
-    ]
+    ],
+    "telegram_link": "https://t.me/club55_game_channel",
+    "home_url": "https://www.55slots.in/#/dashboard"
   }
 ]
